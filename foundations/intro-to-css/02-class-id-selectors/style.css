@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class-odd {
+background-color: #ed8294;
+font-family: Verdana, "DejaVu sans", Tahoma, sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#title {
+color:blue;
+font-size:36px;
+}
+
+#subheading {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}

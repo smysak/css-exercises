@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.pos,
+.neg {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.pos {
+    color:whitesmoke;
+    background-color:black;
+}
+
+.neg {
+    background-color:#ffff13;
+}
